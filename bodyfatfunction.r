@@ -1,0 +1,2 @@
+#Bodyfatpercentage function: 
+bodyfatpercentage<-function(Weight, Neck, Chest, Abdomen, Hip, Thigh, Biceps, Forearm, Wrist){return (-20.70744484 + (Weight * -0.12231521) + (Neck * -0.55247243) + (Chest * 0.04107781) + (Abdomen * 1.04805259) + (Hip * -0.23442407) + (Thigh * 0.19800909) + (Biceps * 0.21621033) + (Forearm * 0.39878499) + (Wrist * -1.37931563))}
