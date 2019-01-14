@@ -5,8 +5,8 @@ Using previously gathered data, find a way to use the data in order to predict s
 Language/Software:
 R was used to carry out this project and the caret library is needed to use the main cross validation function.
 
-codelisting contains the R code used to find the best model
+codelisting.r contains the R code used to find the best model
 
-Bodyfatfunction is the R code containing the function used to predict someones body fat percentage given their measurements
+bodyfatfunction.r is the R code containing the function used to predict someones body fat percentage given their measurements
 
 A body fat project csv file is included containing body measurement data on many people
